@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Pattern17 {
+public class Pattern17 {
 }
